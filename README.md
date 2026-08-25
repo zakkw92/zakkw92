@@ -2,7 +2,6 @@
 
 🎓 **Bacharel em Tecnologia da Informação (Ênfase em IoT)** e graduando em **Engenharia da Computação** pela UNIVESP.  
 💻 **Desenvolvedor Full Stack & Backend** focado na construção de sistemas resilientes, APIs RESTful e integração com Inteligência Artificial.  
-🌱 Apaixonado por resolução de problemas reais via código, automação de processos e arquitetura de software.
 
 ---
 
