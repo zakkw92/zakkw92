@@ -40,9 +40,9 @@
 
 ### 🚀 Principais Projetos
 
-* 🌾 **[Pulve Guard](https://github.com/zakkw92/pulve-guard)** — Plataforma web full stack responsiva voltada à gestão de operações agrícolas[cite: 14]. Construída com React, Node.js, Tailwind CSS e Supabase, contando com deploy ativo e versionamento via Git[cite: 14].
-* 🏢 **Sistema Web de Gestão Empresarial** — Sistema de gestão com autenticação de usuários, operações CRUD, arquitetura backend estruturada e modelagem de banco de dados com Python, Django e MySQL[cite: 14].
-* 🔄 **Evolução de Arquitetura de Sistema Web Legado** — Refatoração de código legado em PHP e otimização de consultas SQL, focando em ganho de desempenho, manutenibilidade e aprimoramento de UX[cite: 14].
+* 🌾 **[Pulve Guard](https://github.com/zakkw92/pulve-guard)** — Plataforma web full stack responsiva voltada à gestão de operações agrícolas[cite: 14]. Construída com React, Node.js, Tailwind CSS e Supabase, contando com deploy ativo e versionamento via Git.
+* 🏢 **Sistema Web de Gestão Empresarial** — Sistema de gestão com autenticação de usuários, operações CRUD, arquitetura backend estruturada e modelagem de banco de dados com Python, Django e MySQL.
+* 🔄 **Evolução de Arquitetura de Sistema Web Legado** — Refatoração de código legado em PHP e otimização de consultas SQL, focando em ganho de desempenho, manutenibilidade e aprimoramento de UX.
 
 ---
 
