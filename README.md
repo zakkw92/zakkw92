@@ -47,10 +47,11 @@
 
 ---
 
-### 📊 Gráfico de Atividades
+### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakkw92&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividades" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakkw92&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zakkw92&theme=tokyonight" />
 </div>
 ---
 
