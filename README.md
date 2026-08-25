@@ -49,15 +49,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zakkw92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkw92&layout=compact&langs_count=6&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakkw92&theme=tokyonight" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakkw92&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkw92&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 ---
 
 ### 📬 Onde me encontrar
